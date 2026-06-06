@@ -18,4 +18,4 @@
 - Concepts used: arrays, functions, loops, input validation, string handling, console formatting
 
 ### Project Structure
-This project was developed collaboratively. My responsibility was the **order-taking module** — including category order functions, input validation logic, order storage, and the billing summary.
+This project was developed collaboratively. My responsibility was the **order-taking module** — including category order functions, input validation logic,  and the billing summary.
